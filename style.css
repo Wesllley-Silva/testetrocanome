@@ -1,0 +1,180 @@
+a,
+p,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Montserrat", sans-serif;
+  color: #404040;
+}
+p {
+  font-size: 16px;
+}
+h2 {
+  font-size: 35px;
+  font-size: 400;
+}
+/* <!-- Cabeçalho --> */
+
+.LinkCabecalho {
+  font-size: 12px;
+  color: #112e61;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-weight: 600;
+}
+/* <!--  Hero --> */
+h1 {
+  font-size: 35px;
+  font-weight: 600;
+}
+.PHero {
+  font-size: 19px;
+}
+.AHero {
+  font-size: 24px;
+  color: #000;
+  text-decoration: none;
+  font-weight: 700;
+}
+/* <!-- Conteudos Gratuitos --> */
+.H2Cg {
+  font-size: 35px;
+  font-weight: 400;
+}
+.SpanCg {
+  color: #7a40be;
+  font-weight: 600;
+}
+.H3Cg {
+  color: #000;
+  font-size: 700;
+  font-size: 23;
+}
+.ACg {
+  font-size: 19px;
+  text-decoration: none;
+}
+/* <!-- Diferenciais --> */
+h2.H2Dif {
+  color: #000;
+  font-size: 35;
+  font-weight: 400;
+}
+.StrongDif {
+  font-size: 35;
+  font-weight: 600;
+}
+.PDif {
+  font-size: 19px;
+}
+.H3Dif {
+  color: #005e88;
+  font-size: 24px;
+  font-weight: 600;
+}
+.RealceEmpresas {
+  color: #005e88;
+  font-weight: 600;
+  text-decoration: none;
+  text-decoration: #fff;
+}
+.Val {
+  color: #404040;
+  font-size: 35px;
+  font-weight: 400;
+}
+.H2Falam {
+  ont-size: 35px;
+
+  font-weight: 400;
+}
+.SpanFalam {
+  font-size: 35px;
+  color: black;
+  font-weight: 600;
+}
+/* O que falam */
+.AFalam {
+  font-size: 24px;
+  font-weight: 400;
+  text-decoration: none;
+  color: #000;
+}
+/* Blog */
+.H2Blog {
+  color: #000;
+  font-weight: 400;
+}
+.PBlog {
+  font-size: 15px;
+}
+.ABlog {
+  color: #f7a70c;
+  text-decoration: none;
+  font-weight: 600;
+}
+.A2Blog {
+  font-size: 24px;
+  font-weight: 600;
+  text-decoration: none;
+}
+.PBlog {
+  font-size: 17px;
+}
+/* Como Ajudar */
+.SpanHelp {
+  font-weight: 600;
+}
+.H2Help {
+  font-weight: 400;
+  color: black;
+}
+.LiHelp {
+  color: #008ff7;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 19px;
+}
+.UlHelp {
+  font-size: 19px;
+}
+.UlHelp2 {
+  font-size: 19px;
+}
+.AHelp {
+  color: #008ff7;
+  font-weight: 600;
+}
+/* MiniCurso */
+span.RealceMc {
+  font-weight: bolder;
+  color: #000;
+}
+.H2Mc {
+  font-weight: 400;
+  color: #000;
+}
+/* Rodape */
+.TitRodape {
+  font-weight: 600;
+  font-size: 22px;
+}
+.RealceCo {
+  font-weight: 500;
+  font-size: 20px;
+}
+.RealceCarol {
+  font-weight: 500;
+  font-size: 18px;
+}
+.ARodape {
+  color: #1a77a4;
+}
+.New {
+  font-weight: 600;
+  font-size: 22px;
+}
